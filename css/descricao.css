@@ -1,0 +1,15 @@
+#descricao{
+    color: white;
+    margin-top: 35vh;
+    margin-left: 8vw;
+    width: 35vw;
+}
+
+#descricao>h1{
+    font-size: 60px;
+    margin-bottom: 25px;
+}
+
+#descricao>p{
+    font-size: 20px;
+}
