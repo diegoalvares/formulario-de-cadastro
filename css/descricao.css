@@ -1,8 +1,8 @@
 #descricao{
     color: white;
     margin-top: 35vh;
-    margin-left: 8vw;
     width: 35vw;
+    margin-left: 100px;
 }
 
 #descricao>h1{
@@ -12,4 +12,5 @@
 
 #descricao>p{
     font-size: 20px;
+    text-align: justify;
 }
