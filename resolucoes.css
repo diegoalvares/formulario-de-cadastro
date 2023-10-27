@@ -1,0 +1,21 @@
+@media(max-height: 743px){
+    #descricao{
+        margin-top: 60px;
+    }
+
+    #descricao>h1{
+        font-size: 40px;
+
+    }
+
+    #formulario{
+        margin-top: 50px;
+    }
+
+    #exclamacao, #exclamacao2, #exclamacao3, #exclamacao4{
+        margin-top: -86px;
+    }
+
+
+}    
+   

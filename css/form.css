@@ -133,7 +133,7 @@ footer>span>strong{
 @media(max-width: 440px){
     
     body{
-        background-image: url('C:/Users/diego/Documents/GitHub/formulario-de-cadastro/imagens/bg-intro-mobile.png');
+        background-image: url('../imagens/bg-intro-mobile.png')
     }
 
     main{
