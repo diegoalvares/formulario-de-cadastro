@@ -1,0 +1,73 @@
+#formulario>h2{
+    background-color: rgb(98, 69, 145);
+    color: white;
+    margin: 60px;
+    margin-top: 140px;
+    font-size: 20px;  
+    padding: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 10px;
+    font-weight: 100;
+    box-shadow: 0px 10px 0px rgba(97, 96, 96, 0.5);
+    text-align: center;
+}
+
+form{
+    background-color: rgb(253, 253, 253);
+    margin: 60px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 10px 0px rgba(97, 96, 96, 0.5);
+    margin-top: -30px;
+}
+
+form>input{
+    margin: 20px;
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 20px;
+    width: 500px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+
+
+form>button{
+    margin-bottom: 20px;
+    background-color: rgb(81, 230, 131);
+    color: white;
+    padding: 25px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    text-shadow: 1px 1px 1px rgb(165, 162, 162);
+    font-size: 15px;
+    padding-left: 171px;
+    padding-right: 171px;
+    margin-left: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+form>button:hover{
+    background-color: rgb(49, 196, 115);
+    transition-duration: 0.5s;
+}
+
+#erro_nome, #erro_sobrenome, #erro_email{
+    color: brown;
+    font-size: 15px;
+    text-align: right;
+    margin-top: 5px;
+    margin-right: 28px;
+}
+
+#exc_nome, #exc_sobrenome, #exc_email{
+    margin-left: 510px;
+    width: 35px;
+    margin-top: 45px;
+    position: absolute;
+}

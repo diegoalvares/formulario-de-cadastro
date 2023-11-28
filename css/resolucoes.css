@@ -1,0 +1,67 @@
+@media (max-width: 450px) {
+    main{
+        display: block;
+    }
+
+    #descricao{
+        margin: 0px;
+        margin-top: -210px;
+      }
+
+    h1{
+        font-size: 30px;
+        text-align: center;
+        margin-left: -250px;
+    }
+
+    p{
+        font-size: 12px;
+        margin: 20px;
+        width: 415px;
+        text-align: center;
+        margin-bottom: -100px;
+    }
+
+
+    #formulario>h2{
+        font-size: 11px;
+    }
+
+    #formulario{
+        width: 500px;
+        margin-left: -25px;
+    }
+
+    form>input{
+        width: 280px;
+        font-size: 15px;
+        padding: 15px;
+    }
+
+    form>button{
+        width: 315px;
+        padding: 20px;
+        padding-left: 50px;
+        padding-right: 50px;
+        font-size: 15px;
+    }
+
+    form> footer{
+        font-size: 7px;
+        margin-bottom: 20px;
+    }
+
+    #erro_nome, #erro_sobrenome, #erro_email{
+        font-size: 12px;
+        text-align: right;
+        margin-top: 5px;
+        margin-right: 33px;
+    }
+
+    #exc_nome, #exc_sobrenome, #exc_email{
+        margin-left: 290px;
+        width: 25px;
+        margin-top: 43px;
+        position: absolute;
+    }
+}
