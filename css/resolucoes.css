@@ -1,4 +1,4 @@
-@media (max-width: 450px) {
+@media (max-width: 480px) {
     main{
         display: block;
     }
@@ -11,25 +11,28 @@
     h1{
         font-size: 30px;
         text-align: center;
-        margin-left: -250px;
+        width: 460px;
     }
 
     p{
-        font-size: 12px;
-        margin: 20px;
-        width: 415px;
+        font-size: 13px;
+        margin: 10px;
+        margin-top: 15px;
         text-align: center;
-        margin-bottom: -100px;
+        margin-bottom: -50px;
+        width: 460px;
     }
 
 
     #formulario>h2{
         font-size: 11px;
+        width: 260px;
     }
 
     #formulario{
         width: 500px;
         margin-left: -25px;
+        margin-bottom: -30px;
     }
 
     form>input{
