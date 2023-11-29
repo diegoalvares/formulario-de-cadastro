@@ -1,7 +1,7 @@
 main{
     display: flex;
     justify-content: space-between;
-    background-image: url('C:/Users/diego/Documents/GitHub/formulario-de-cadastro/imagens/bg-intro-desktop.png');
+    background-image: url('../imagens/bg-intro-desktop.png');
 }
 
 
