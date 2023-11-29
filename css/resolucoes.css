@@ -8,6 +8,7 @@
         margin: 0px;
         margin-top: -210px;
         width: 390px;
+        margin-left: 15px;
       }
 
     h1{
@@ -28,14 +29,14 @@
 
 
     #formulario>h2{
-        font-size: 12px;
-        width: 300px;
+        font-size: 13px;
+        width: 320px;
         padding-left: 10px;
         padding-right: 10px;
     }
 
     #formulario{
-        width: 435px;
+        width: 455px;
         margin-left: -25px;
         margin-bottom: -30px;
     }
@@ -45,13 +46,13 @@
     }
 
     form>input{
-        width: 230px;
+        width: 250px;
         font-size: 13px;
         padding: 12px;
     }
 
     form>button{
-        width: 255px;
+        width: 275px;
         padding: 20px;
         padding-left: 30px;
         padding-right: 30px;
@@ -59,7 +60,7 @@
     }
 
     form> footer{
-        font-size: 6px;
+        font-size: 6.5px;
         margin-bottom: 20px;
     }
 
@@ -71,7 +72,7 @@
     }
 
     #exc_nome, #exc_sobrenome, #exc_email{
-        margin-left: 235px;
+        margin-left: 255px;
         width: 25px;
         margin-top: 40px;
         position: absolute;
