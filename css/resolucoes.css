@@ -7,6 +7,7 @@
     #descricao{
         margin: 0px;
         margin-top: -210px;
+        width: 390px;
       }
 
     h1{
@@ -37,6 +38,10 @@
         width: 435px;
         margin-left: -25px;
         margin-bottom: -30px;
+    }
+
+    form{
+        margin-bottom: 10px;
     }
 
     form>input{
