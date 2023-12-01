@@ -1,7 +1,6 @@
 main{
     display: flex;
     justify-content: space-between;
-    background-image: url('../imagens/bg-intro-desktop.png');
 }
 
 

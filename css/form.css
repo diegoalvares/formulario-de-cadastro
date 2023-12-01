@@ -63,6 +63,7 @@ form>button:hover{
     text-align: right;
     margin-top: 5px;
     margin-right: 28px;
+    display: none;
 }
 
 #exc_nome, #exc_sobrenome, #exc_email{
@@ -70,4 +71,5 @@ form>button:hover{
     width: 35px;
     margin-top: 45px;
     position: absolute;
+    display: none;
 }
